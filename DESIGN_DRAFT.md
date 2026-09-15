@@ -1,6 +1,7 @@
 # Design Draft – Carbon-ia
 
-Ce document décrit l’architecture technique initiale du projet Carbon-ia. Il sert de base pour le développement du MVP et pour l’évolution future du projet.
+Ce document décrit l’architecture technique initiale du projet Carbon-ia. 
+Il sert de base pour le développement du MVP et pour l’évolution future du projet.
 
 ## 1. Architecture générale
 Carbon-ia repose sur trois composants principaux :
