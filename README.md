@@ -17,7 +17,16 @@ Carbon-ia est un outil open-source permettant de mesurer l’impact carbone des 
 - Modules additionnels pour nouveaux modèles IA.
 
 ## Structure du projet
-Voir le fichier `STRUCTURE.md`.
+Carbon-ia est organisé en plusieurs modules indépendants :
+
+- **backend/** : API locale, calcul CO₂, stockage.
+- **extension/** : extension navigateur (capture des requêtes IA).
+- **frontend/** : interface web locale.
+- **data/** : facteurs scientifiques et énergétiques.
+- **prototype/** : maquettes et démonstrations.
+
+Voir STRUCTURE.md pour une explication détaillée.
+
 
 ## Licence
 Ce projet est distribué sous licence Apache 2.0.
